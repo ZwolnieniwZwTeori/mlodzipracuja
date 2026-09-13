@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-cream text-ink font-body antialiased;
+    /* Twardy strażnik przed poziomym scrollowaniem na małych ekranach.
+       clip (nie hidden), żeby nie psuć sticky navbara. */
+    overflow-x: clip;
+  }
+
+  h1,
+  h2,
+  h3 {
+    @apply font-display;
+  }
+
+  ::selection {
+    @apply bg-moss text-cream;
+  }
+
+  :focus-visible {
+    outline: 2px solid theme("colors.moss");
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+}
+
+@layer components {
+  .input {
+    /* 16 px celowo — mniejszy font na iPhonie powoduje auto-zoom przy focusie */
+    @apply w-full rounded-xl border border-line bg-paper px-3.5 py-2.5 text-base text-ink shadow-[inset_0_1px_2px_rgba(22,19,14,0.04)] placeholder:text-ink-faint transition-colors focus:border-moss focus:outline-none focus:ring-2 focus:ring-moss/20 sm:text-[15px];
+  }
+
+  .label {
+    @apply text-sm font-medium text-ink;
+  }
+
+  .btn-primary {
+    @apply inline-flex min-h-[44px] items-center justify-center gap-2 rounded-full border border-ink bg-ink px-6 py-2.5 text-sm font-medium text-cream transition-all hover:border-moss-dark hover:bg-moss-dark active:translate-y-px disabled:cursor-not-allowed disabled:opacity-50;
+  }
+
+  .btn-outline {
+    @apply inline-flex min-h-[44px] items-center justify-center gap-2 rounded-full border border-line bg-transparent px-5 py-2.5 text-sm font-medium text-ink transition-colors hover:border-ink;
+  }
+
+  .card {
+    @apply rounded-2xl border border-line bg-paper shadow-[0_2px_8px_rgba(22,19,14,0.06)];
+  }
+
+  .card-hover {
+    @apply transition-all duration-200 hover:-translate-y-0.5 hover:border-ink/40 hover:shadow-[0_12px_28px_-10px_rgba(22,19,14,0.28)];
+  }
+
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.14em] text-moss;
+  }
+
+  .section-title {
+    @apply text-2xl font-extrabold tracking-tight sm:text-3xl;
+  }
+}
+
+@layer utilities {
+  /* Schodkowe, ucięte naroże — motyw wywodzący się z eksploracji znaku "P"
+     w brandingu (Koncepcja 2: "Monolit P"). Używane oszczędnie, tylko na
+     wyróżnionych elementach, nigdy jako domyślny styl kart. */
+  .notch-tl {
+    clip-path: polygon(
+      0 24px,
+      24px 24px,
+      24px 0,
+      100% 0,
+      100% 100%,
+      0 100%
+    );
+  }
+
+  .notch-br {
+    clip-path: polygon(
+      0 0,
+      100% 0,
+      100% calc(100% - 24px),
+      calc(100% - 24px) calc(100% - 24px),
+      calc(100% - 24px) 100%,
+      0 100%
+    );
+  }
+
+  .container-content {
+    @apply mx-auto w-full max-w-content px-5 sm:px-8;
+  }
+
+  .no-scrollbar {
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}
