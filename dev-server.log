@@ -1,0 +1,1004 @@
+
+> pracamlodych-frontend@0.1.0 dev
+> next dev
+
+ ⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of C:\Users\Thumex\pnpm-lock.yaml as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * C:\Users\Thumex\Desktop\Zwolnieni z teorii\page\package-lock.json
+
+   ▲ Next.js 15.5.25
+   - Local:        http://localhost:3000
+   - Network:      http://100.83.54.25:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.2s
+ ○ Compiling / ...
+ ✓ Compiled / in 4.9s (830 modules)
+ GET / 200 in 6038ms
+ ○ Compiling /kategoria/[slug] ...
+ ✓ Compiled /kategoria/[slug] in 1001ms (728 modules)
+ GET /kategoria/opieka 200 in 2556ms
+ ✓ Compiled /lokalizacja/[city] in 345ms (716 modules)
+ GET /lokalizacja/wroclaw 200 in 1632ms
+ ✓ Compiled /oferta/[id] in 452ms (722 modules)
+ GET /oferta/off-01 200 in 1731ms
+ ○ Compiling /mentor ...
+ ✓ Compiled /mentor in 571ms (740 modules)
+ GET /mentor 200 in 813ms
+ ○ Compiling /dodaj-oferte ...
+ ✓ Compiled /dodaj-oferte in 984ms (776 modules)
+ GET /dodaj-oferte 200 in 1252ms
+ ○ Compiling /dziekujemy ...
+ ✓ Compiled /dziekujemy in 593ms (778 modules)
+ GET /dziekujemy 200 in 866ms
+ ○ Compiling /prywatnosc ...
+ ✓ Compiled /prywatnosc in 663ms (780 modules)
+ GET /prywatnosc 200 in 923ms
+ ○ Compiling /regulamin ...
+ ✓ Compiled /regulamin in 552ms (782 modules)
+ GET /regulamin 200 in 782ms
+ ○ Compiling /o-projekcie ...
+ ✓ Compiled /o-projekcie in 560ms (784 modules)
+ GET /o-projekcie 200 in 798ms
+ ○ Compiling /robots.txt ...
+ ✓ Compiled /robots.txt in 820ms (803 modules)
+ GET /robots.txt 200 in 968ms
+ ○ Compiling /sitemap.xml ...
+ ✓ Compiled /sitemap.xml in 598ms (806 modules)
+ GET /sitemap.xml 200 in 661ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 564ms (527 modules)
+ GET /favicon.ico 200 in 648ms
+ GET / 200 in 938ms
+ GET /oferta/off-01 200 in 567ms
+ GET /sitemap.xml 200 in 20ms
+ GET / 200 in 660ms
+ GET /prywatnosc 200 in 32ms
+ GET / 200 in 576ms
+ GET / 200 in 547ms
+ GET /dodaj-oferte 200 in 29ms
+ GET / 200 in 562ms
+ GET /oferta/off-01 200 in 480ms
+ GET / 200 in 564ms
+ GET / 200 in 562ms
+ GET / 200 in 564ms
+ ✓ Compiled in 1153ms (777 modules)
+ GET / 200 in 790ms
+ ✓ Compiled in 453ms (777 modules)
+ GET / 200 in 705ms
+ ✓ Compiled in 477ms (777 modules)
+ GET / 200 in 655ms
+ ✓ Compiled in 397ms (777 modules)
+ GET / 200 in 649ms
+ ✓ Compiled in 727ms (777 modules)
+ GET / 200 in 651ms
+ ✓ Compiled in 670ms (777 modules)
+ GET / 200 in 659ms
+ ✓ Compiled in 481ms (777 modules)
+ GET / 200 in 686ms
+ ✓ Compiled in 917ms (777 modules)
+ GET / 200 in 663ms
+ GET / 200 in 798ms
+ GET /oferta/off-01 200 in 556ms
+ GET / 200 in 666ms
+ GET / 200 in 561ms
+ GET /oferta/off-04 200 in 480ms
+ GET / 200 in 554ms
+ ✓ Compiled in 1495ms (777 modules)
+ GET / 200 in 791ms
+ ✓ Compiled in 887ms (777 modules)
+ GET / 200 in 947ms
+ ✓ Compiled in 1126ms (777 modules)
+ GET / 200 in 982ms
+ ✓ Compiled in 677ms (778 modules)
+ GET / 200 in 984ms
+ ✓ Compiled in 560ms (778 modules)
+ GET / 200 in 1019ms
+ GET / 200 in 1301ms
+ GET /?company=Sklep%20U%20Asi 200 in 1029ms
+ GET /?company=Sklep%20U%20Asi 200 in 1096ms
+ GET / 200 in 911ms
+ GET /?company=Sad+Wo%C5%82%C3%B3w 200 in 823ms
+ GET / 200 in 810ms
+ ✓ Compiled in 908ms (778 modules)
+ GET / 200 in 1082ms
+ GET / 200 in 1123ms
+ GET / 200 in 944ms
+ ✓ Compiled in 1270ms (778 modules)
+ GET / 200 in 1221ms
+ ✓ Compiled in 305ms (295 modules)
+ GET / 200 in 905ms
+ ✓ Compiled in 1398ms (782 modules)
+ GET / 200 in 1012ms
+ ✓ Compiled in 827ms (771 modules)
+ GET / 200 in 1060ms
+ ✓ Compiled in 610ms (785 modules)
+ GET / 200 in 964ms
+ ✓ Compiled in 274ms (298 modules)
+ ✓ Compiled in 277ms (298 modules)
+ GET / 200 in 1009ms
+ GET / 200 in 880ms
+ GET / 200 in 1304ms
+ ○ Compiling /lokalizacja/[city] ...
+ ✓ Compiled /lokalizacja/[city] in 896ms (491 modules)
+ GET /lokalizacja/poznan 200 in 1681ms
+ GET /lokalizacja/krakow 200 in 364ms
+ GET / 200 in 1426ms
+ GET /?location=Pozna%C5%84 200 in 1015ms
+ GET / 200 in 1099ms
+ GET / 200 in 989ms
+ ✓ Compiled in 1625ms (785 modules)
+ GET / 200 in 1242ms
+ ✓ Compiled in 1074ms (785 modules)
+ GET / 200 in 1180ms
+ GET / 200 in 2177ms
+ ○ Compiling /lokalizacja/[city] ...
+ ✓ Compiled /lokalizacja/[city] in 562ms (491 modules)
+ GET /lokalizacja/wegliniec 200 in 1396ms
+ GET /lokalizacja/jozefow-pow-otwocki 200 in 587ms
+ GET / 200 in 1562ms
+ GET /lokalizacja/wroclaw 200 in 982ms
+ GET / 200 in 1490ms
+ GET /lokalizacja/brusy 200 in 321ms
+ GET / 200 in 811ms
+ ✓ Compiled in 1602ms (789 modules)
+ GET / 200 in 1230ms
+ ✓ Compiled in 1420ms (789 modules)
+ GET / 200 in 1124ms
+ ✓ Compiled in 830ms (789 modules)
+ GET / 200 in 1036ms
+ ✓ Compiled in 1083ms (789 modules)
+ GET / 200 in 1641ms
+ ✓ Compiled in 279ms (298 modules)
+ GET / 200 in 905ms
+ GET / 200 in 2176ms
+ ○ Compiling /kategoria/[slug] ...
+ ✓ Compiled /kategoria/[slug] in 776ms (493 modules)
+ GET /kategoria/fotografia 200 in 1540ms
+ GET /kategoria/zwierzeta 200 in 468ms
+ GET / 200 in 1434ms
+ GET /kategoria/opieka 200 in 744ms
+ GET / 200 in 2234ms
+ GET / 200 in 2012ms
+ GET / 200 in 1410ms
+ GET /?company=Sklep+U+Asi 200 in 801ms
+ GET /oferta/off-02 200 in 483ms
+ ✓ Compiled in 969ms (789 modules)
+ GET /?company=Sklep+U+Asi 200 in 1090ms
+ GET /?company=Sklep%20U%20Asi 200 in 1600ms
+ GET / 200 in 806ms
+ ✓ Compiled in 2s (789 modules)
+ GET / 200 in 1123ms
+ ✓ Compiled in 937ms (789 modules)
+ GET / 200 in 1069ms
+ GET / 200 in 1828ms
+ GET /?location=Wo%C5%82%C3%B3w&category=magazyn&age=16 200 in 798ms
+ GET /?location=Wo%C5%82%C3%B3w&category=promocje&age=16 200 in 811ms
+ GET /dodaj-oferte 200 in 32ms
+ GET / 200 in 850ms
+ GET / 200 in 1459ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 597ms (508 modules)
+ HEAD /favicon.ico 200 in 733ms
+ GET /favicon.ico 200 in 9ms
+ GET / 200 in 1704ms
+ GET / 200 in 1462ms
+ GET / 200 in 783ms
+ GET / 200 in 260ms
+ GET / 200 in 398ms
+ GET / 200 in 1560ms
+ GET /favicon.ico 200 in 10ms
+ GET / 200 in 1849ms
+ ✓ Compiled in 1358ms (789 modules)
+ GET / 200 in 1271ms
+ GET / 200 in 1325ms
+ GET / 200 in 1273ms
+ GET / 200 in 1261ms
+ ✓ Compiled in 1462ms (789 modules)
+ ✓ Compiled in 1024ms (298 modules)
+ GET / 200 in 1796ms
+ GET / 200 in 1456ms
+ ✓ Compiled in 3.1s (789 modules)
+ GET / 200 in 1467ms
+ ✓ Compiled in 3s (789 modules)
+ GET / 200 in 2050ms
+ ✓ Compiled in 1800ms (789 modules)
+ GET / 200 in 1156ms
+ GET / 200 in 1060ms
+ ✓ Compiled /favicon.ico in 379ms (508 modules)
+ GET /favicon.ico 200 in 483ms
+ ✓ Compiled in 1001ms (806 modules)
+ GET / 200 in 1380ms
+ GET /favicon.ico 200 in 80ms
+ GET /favicon.ico 200 in 21ms
+ GET /favicon.ico 200 in 24ms
+ ✓ Compiled in 1237ms (806 modules)
+ GET / 200 in 1128ms
+ GET /favicon.ico 200 in 66ms
+ GET /favicon.ico 200 in 18ms
+ GET /favicon.ico 200 in 21ms
+ ✓ Compiled in 1093ms (806 modules)
+ GET / 200 in 1173ms
+ GET /favicon.ico 200 in 61ms
+ GET /favicon.ico 200 in 36ms
+ GET /favicon.ico 200 in 38ms
+ ⨯ ./app/page.tsx
+Error:   [31mx[0m Expected '</', got 'className'
+     ,-[[36;1;4mC:\Users\Thumex\Desktop\Zwolnieni z teorii\page\app\page.tsx[0m:382:1]
+ [2m379[0m |         </div>
+ [2m380[0m |       </section>
+ [2m381[0m | 
+ [2m382[0m |       <section className="container-content pb-20" aria-label="Polecane firmy">
+     : [35;1m               ^^^^^^^^^[0m
+ [2m383[0m |         <p className="eyebrow">Polecane firmy</p>
+ [2m384[0m |         <div className="mt-2 flex flex-wrap items-end justify-between gap-3">
+ [2m385[0m |           <h2 className="section-title">Firmy, które szukają młodych</h2>
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/page.tsx
+ ○ Compiling /_error ...
+ ⨯ ./app/page.tsx
+Error:   [31mx[0m Expected '</', got 'className'
+     ,-[[36;1;4mC:\Users\Thumex\Desktop\Zwolnieni z teorii\page\app\page.tsx[0m:382:1]
+ [2m379[0m |         </div>
+ [2m380[0m |       </section>
+ [2m381[0m | 
+ [2m382[0m |       <section className="container-content pb-20" aria-label="Polecane firmy">
+     : [35;1m               ^^^^^^^^^[0m
+ [2m383[0m |         <p className="eyebrow">Polecane firmy</p>
+ [2m384[0m |         <div className="mt-2 flex flex-wrap items-end justify-between gap-3">
+ [2m385[0m |           <h2 className="section-title">Firmy, które szukają młodych</h2>
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/page.tsx
+ GET / 500 in 12847ms
+ GET / 500 in 41ms
+ GET / 500 in 49ms
+ GET / 500 in 36ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled /_error in 2.6s (1153 modules)
+ GET / 200 in 4753ms
+ GET /favicon.ico 200 in 67ms
+ GET / 200 in 1311ms
+ GET / 200 in 977ms
+ GET /favicon.ico 200 in 10ms
+ ✓ Compiled in 814ms (1136 modules)
+ GET / 200 in 989ms
+ ✓ Compiled /favicon.ico in 239ms (702 modules)
+ GET /favicon.ico 200 in 351ms
+ GET /favicon.ico 200 in 7ms
+ GET /favicon.ico 200 in 9ms
+ ✓ Compiled in 437ms (1153 modules)
+ GET / 200 in 993ms
+ GET /favicon.ico 200 in 33ms
+ GET /favicon.ico 200 in 13ms
+ GET /favicon.ico 200 in 8ms
+ GET / 200 in 1092ms
+ ✓ Compiled in 166ms (451 modules)
+ ✓ Compiled in 252ms (451 modules)
+ GET / 200 in 875ms
+ GET / 200 in 838ms
+ GET /favicon.ico 200 in 9ms
+ GET /favicon.ico 200 in 8ms
+ GET /favicon.ico 200 in 10ms
+ ✓ Compiled in 139ms (451 modules)
+ ✓ Compiled in 960ms (1139 modules)
+ GET / 200 in 1121ms
+ GET / 200 in 1688ms
+ GET / 200 in 830ms
+ GET /favicon.ico 200 in 25ms
+ GET /favicon.ico 200 in 8ms
+ GET /favicon.ico 200 in 8ms
+ ✓ Compiled in 396ms (1139 modules)
+ ⚠ ./src/components/CityCombobox.tsx
+Attempted import error: 'searchCities' is not exported from '@/data/locations' (imported as 'searchCities').
+
+Import trace for requested module:
+./src/components/CityCombobox.tsx
+./src/components/FilterBar.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'normalizeCity' is not exported from '@/data/locations' (imported as 'normalizeCity').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'normalizeCity' is not exported from '@/data/locations' (imported as 'normalizeCity').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityCombobox.tsx
+Attempted import error: 'searchCities' is not exported from '@/data/locations' (imported as 'searchCities').
+
+Import trace for requested module:
+./src/components/CityCombobox.tsx
+./src/components/FilterBar.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'normalizeCity' is not exported from '@/data/locations' (imported as 'normalizeCity').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'normalizeCity' is not exported from '@/data/locations' (imported as 'normalizeCity').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./app/lokalizacja/[city]/page.tsx
+Attempted import error: 'cityName' is not exported from '@/data/locations' (imported as 'cityName').
+
+Import trace for requested module:
+./app/lokalizacja/[city]/page.tsx
+
+./app/lokalizacja/[city]/page.tsx
+Attempted import error: 'findCity' is not exported from '@/data/locations' (imported as 'findCity').
+
+Import trace for requested module:
+./app/lokalizacja/[city]/page.tsx
+
+./app/page.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./app/page.tsx
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 200 in 297ms
+ ⨯ TypeError: Cannot read properties of undefined (reading 'length')
+    at HomePage (app\page.tsx:494:24)
+  492 |                   <span className="flex items-center gap-2">
+  493 |                     <span className="rounded-full bg-moss-tint px-2.5 py-0.5 text-xs font-medium text-moss-dark">
+> 494 |                       {ALL_CITIES.length}
+      |                        ^
+  495 |                     </span>
+  496 |                     <span className="flex h-6 w-6 items-center justify-center rounded-full border border-line text-sm text-ink-soft transition-transform group-open:rotate-45" aria-hidden="true">
+  497 |                       + {
+  digest: '2412952370'
+}
+ GET / 200 in 932ms
+ ⚠ ./src/components/CityCombobox.tsx
+Attempted import error: 'searchCities' is not exported from '@/data/locations' (imported as 'searchCities').
+
+Import trace for requested module:
+./src/components/CityCombobox.tsx
+./src/components/FilterBar.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'normalizeCity' is not exported from '@/data/locations' (imported as 'normalizeCity').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'normalizeCity' is not exported from '@/data/locations' (imported as 'normalizeCity').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityCombobox.tsx
+Attempted import error: 'searchCities' is not exported from '@/data/locations' (imported as 'searchCities').
+
+Import trace for requested module:
+./src/components/CityCombobox.tsx
+./src/components/FilterBar.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'normalizeCity' is not exported from '@/data/locations' (imported as 'normalizeCity').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'normalizeCity' is not exported from '@/data/locations' (imported as 'normalizeCity').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./app/lokalizacja/[city]/page.tsx
+Attempted import error: 'cityName' is not exported from '@/data/locations' (imported as 'cityName').
+
+Import trace for requested module:
+./app/lokalizacja/[city]/page.tsx
+
+./app/lokalizacja/[city]/page.tsx
+Attempted import error: 'findCity' is not exported from '@/data/locations' (imported as 'findCity').
+
+Import trace for requested module:
+./app/lokalizacja/[city]/page.tsx
+
+./app/page.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./app/page.tsx
+ ⚠ ./src/components/CityCombobox.tsx
+Attempted import error: 'searchCities' is not exported from '@/data/locations' (imported as 'searchCities').
+
+Import trace for requested module:
+./src/components/CityCombobox.tsx
+./src/components/FilterBar.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'normalizeCity' is not exported from '@/data/locations' (imported as 'normalizeCity').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'normalizeCity' is not exported from '@/data/locations' (imported as 'normalizeCity').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityCombobox.tsx
+Attempted import error: 'searchCities' is not exported from '@/data/locations' (imported as 'searchCities').
+
+Import trace for requested module:
+./src/components/CityCombobox.tsx
+./src/components/FilterBar.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'normalizeCity' is not exported from '@/data/locations' (imported as 'normalizeCity').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'normalizeCity' is not exported from '@/data/locations' (imported as 'normalizeCity').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./app/lokalizacja/[city]/page.tsx
+Attempted import error: 'cityName' is not exported from '@/data/locations' (imported as 'cityName').
+
+Import trace for requested module:
+./app/lokalizacja/[city]/page.tsx
+
+./app/lokalizacja/[city]/page.tsx
+Attempted import error: 'findCity' is not exported from '@/data/locations' (imported as 'findCity').
+
+Import trace for requested module:
+./app/lokalizacja/[city]/page.tsx
+
+./app/page.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./app/page.tsx
+ GET /favicon.ico 200 in 304ms
+ ○ Compiling /favicon.ico ...
+ ⚠ ./src/components/CityDirectory.tsx
+Attempted import error: 'normalizeCity' is not exported from '@/data/locations' (imported as 'normalizeCity').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'normalizeCity' is not exported from '@/data/locations' (imported as 'normalizeCity').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'normalizeCity' is not exported from '@/data/locations' (imported as 'normalizeCity').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'normalizeCity' is not exported from '@/data/locations' (imported as 'normalizeCity').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./src/components/CityDirectory.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./src/components/CityDirectory.tsx
+
+./app/lokalizacja/[city]/page.tsx
+Attempted import error: 'cityName' is not exported from '@/data/locations' (imported as 'cityName').
+
+Import trace for requested module:
+./app/lokalizacja/[city]/page.tsx
+
+./app/lokalizacja/[city]/page.tsx
+Attempted import error: 'findCity' is not exported from '@/data/locations' (imported as 'findCity').
+
+Import trace for requested module:
+./app/lokalizacja/[city]/page.tsx
+
+./app/page.tsx
+Attempted import error: 'ALL_CITIES' is not exported from '@/data/locations' (imported as 'ALL_CITIES').
+
+Import trace for requested module:
+./app/page.tsx
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⨯ TypeError: Cannot read properties of undefined (reading 'length')
+    at HomePage (app\page.tsx:494:24)
+  492 |                   <span className="flex items-center gap-2">
+  493 |                     <span className="rounded-full bg-moss-tint px-2.5 py-0.5 text-xs font-medium text-moss-dark">
+> 494 |                       {ALL_CITIES.length}
+      |                        ^
+  495 |                     </span>
+  496 |                     <span className="flex h-6 w-6 items-center justify-center rounded-full border border-line text-sm text-ink-soft transition-transform group-open:rotate-45" aria-hidden="true">
+  497 |                       + {
+  digest: '2412952370'
+}
+ GET / 200 in 985ms
+ GET /favicon.ico 200 in 22ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled /favicon.ico in 864ms (1153 modules)
+ GET / 200 in 1759ms
+ GET /favicon.ico 200 in 20ms
+ ✓ Compiled /api/cities in 456ms (1155 modules)
+ GET /api/cities?q=lodz 200 in 487ms
+ GET /api/cities 200 in 7ms
+ GET / 200 in 901ms
+ GET /favicon.ico 200 in 19ms
+ GET /favicon.ico 200 in 10ms
+ GET /favicon.ico 200 in 9ms
+ GET /api/cities?q=lodz&limit=5 200 in 8ms
+ GET / 200 in 987ms
+ GET / 200 in 975ms
+ GET /api/cities?q=&limit=30 200 in 12ms
+ ✓ Compiled in 225ms (450 modules)
+ GET / 200 in 866ms
+ GET /favicon.ico 200 in 8ms
+ GET /favicon.ico 200 in 8ms
+ GET /favicon.ico 200 in 9ms
+ ✓ Compiled in 161ms (450 modules)
+ GET / 200 in 854ms
+ GET /favicon.ico 200 in 9ms
+ GET /favicon.ico 200 in 10ms
+ GET /favicon.ico 200 in 10ms
+ GET /api/cities?q=Alwernia&limit=30 200 in 12ms
+ ✓ Compiled in 189ms (450 modules)
+ ✓ Compiled in 992ms (1139 modules)
+ GET / 200 in 1166ms
+ GET / 200 in 1671ms
+ GET / 200 in 845ms
+ ✓ Compiled /favicon.ico in 221ms (705 modules)
+ GET /favicon.ico 200 in 275ms
+ GET /favicon.ico 200 in 8ms
+ GET /favicon.ico 200 in 7ms
+ ✓ Compiled in 137ms (450 modules)
+ ✓ Compiled in 213ms (450 modules)
+ GET / 200 in 908ms
+ GET / 200 in 838ms
+ GET /favicon.ico 200 in 8ms
+ GET /favicon.ico 200 in 8ms
+ GET /favicon.ico 200 in 7ms
+ ✓ Compiled in 125ms (450 modules)
+ ✓ Compiled in 412ms (1139 modules)
+ GET / 200 in 998ms
+ GET / 200 in 904ms
+ GET / 200 in 995ms
+ GET /favicon.ico 200 in 27ms
+ GET /favicon.ico 200 in 11ms
+ GET /favicon.ico 200 in 11ms
+ ✓ Compiled in 143ms (450 modules)
+ ✓ Compiled in 145ms (450 modules)
+ GET / 200 in 851ms
+ GET / 200 in 864ms
+ GET /favicon.ico 200 in 8ms
+ GET /favicon.ico 200 in 7ms
+ GET /favicon.ico 200 in 7ms
+ ✓ Compiled in 698ms (1153 modules)
+ GET / 200 in 1479ms
+ GET / 200 in 860ms
+ GET /favicon.ico 200 in 21ms
+ GET /favicon.ico 200 in 9ms
+ GET /favicon.ico 200 in 8ms
+ ✓ Compiled in 512ms (1153 modules)
+ GET / 200 in 920ms
+ GET /favicon.ico 200 in 27ms
+ GET /favicon.ico 200 in 10ms
+ GET /favicon.ico 200 in 10ms
+ ✓ Compiled /profil/start in 502ms (1141 modules)
+ GET /profil/start 200 in 688ms
+ ✓ Compiled /profil/kandydat in 414ms (1153 modules)
+ GET /profil/kandydat 200 in 688ms
+ ○ Compiling /profil/pracodawca ...
+ ✓ Compiled /profil/pracodawca in 703ms (1162 modules)
+ GET /profil/pracodawca 200 in 955ms
+ GET /profil/kandydat 200 in 95ms
+ GET /profil/pracodawca 200 in 81ms
+ GET / 200 in 961ms
+ GET /favicon.ico 200 in 24ms
+ GET /profil/start 200 in 29ms
+ GET /profil/start 200 in 23ms
+ GET /profil/kandydat 200 in 20ms
+ ✓ Compiled /api/cities in 422ms (722 modules)
+ GET /api/cities?q=&limit=30 200 in 472ms
+ GET /api/cities?q=w&limit=30 200 in 8ms
+ GET /api/cities?q=wol&limit=30 200 in 8ms
+ GET /api/cities?q=wolo&limit=30 200 in 8ms
+ GET /profil/start 200 in 62ms
+ GET /profil/pracodawca 200 in 25ms
+ GET / 200 in 846ms
+ ✓ Compiled in 196ms (456 modules)
+ GET / 200 in 878ms
+ ✓ Compiled in 784ms (1144 modules)
+ GET / 200 in 973ms
+ GET / 200 in 1028ms
+ ✓ Compiled /favicon.ico in 191ms (705 modules)
+ GET /favicon.ico 200 in 300ms
+ ✓ Compiled /api/cities in 215ms (707 modules)
+ GET /api/cities?q=&limit=30 200 in 258ms
+ ✓ Compiled in 724ms (1163 modules)
+ GET / 200 in 914ms
+ GET /favicon.ico 200 in 27ms
+ GET /favicon.ico 200 in 10ms
+ GET /favicon.ico 200 in 8ms
+ GET /?page=2 200 in 823ms
+ ✓ Compiled in 610ms (1163 modules)
+ GET /?page=2 200 in 968ms
+ ✓ Compiled in 783ms (1163 modules)
+ GET /?page=2 200 in 874ms
+ GET /?page=2 200 in 1056ms
+ GET /favicon.ico 200 in 21ms
+ ✓ Compiled /_not-found in 319ms (1150 modules)
+ GET /sw.js 404 in 481ms
+ GET /?page=2&_mvua=1 200 in 1267ms
+ GET /?page=2&_mvua=1 200 in 1190ms
+ GET /?page=2&_mvua=1 200 in 1237ms
+ GET /?page=2&_mvua=1 200 in 1122ms
+ GET /?page=2&_mvua=1 200 in 1173ms
+ GET /?page=2&_mvua=1 200 in 1075ms
+ GET /?page=2&_mvua=1 200 in 1125ms
+ GET /?page=2&_mvua=1 200 in 998ms
+ GET /sw.js 404 in 86ms
+ GET /?page=2&_mvua=1 200 in 1106ms
+ GET /?page=2&_mvua=1 200 in 1031ms
+ GET /sw.js 404 in 74ms
+ ✓ Compiled in 670ms (1162 modules)
+ GET /?page=2 200 in 1197ms
+ GET /?page=2&_mvua=1 200 in 1196ms
+ GET /?page=2 200 in 1202ms
+ GET /?page=2&_mvua=1 200 in 1045ms
+ GET /?page=2&_mvua=1 200 in 992ms
+ GET /?page=2&_mvua=1 200 in 940ms
+ GET /?page=2&_mvua=1 200 in 880ms
+ GET /?page=2&_mvua=1 200 in 883ms
+ GET /?page=2&_mvua=1 200 in 881ms
+ GET /?page=2&_mvua=1 200 in 851ms
+ GET /?page=2&_mvua=1 200 in 839ms
+ GET /?page=2&_mvua=1 200 in 844ms
+ GET /sw.js 404 in 117ms
+ GET / 200 in 975ms
+ GET /?q=ulotki 200 in 948ms
+ GET / 200 in 1007ms
+ GET /?page=2 200 in 957ms
+ GET /favicon.ico 200 in 41ms
+ GET /?page=2&_mvua=1 200 in 1275ms
+ GET /?page=2&_mvua=1 200 in 1182ms
+ GET /?page=2&_mvua=1 200 in 987ms
+ GET /?page=2&_mvua=1 200 in 1122ms
+ GET /?page=2&_mvua=1 200 in 1414ms
+ GET /?page=2&_mvua=1 200 in 1311ms
+ GET /?page=2&_mvua=1 200 in 1032ms
+ GET /?page=2&_mvua=1 200 in 1307ms
+ GET /?page=2&_mvua=1 200 in 1171ms
+ GET /?page=2&_mvua=1 200 in 1146ms
+ GET /sw.js 404 in 83ms
+ GET /sw.js 404 in 85ms
+ ✓ Compiled in 1239ms (1145 modules)
+ GET /?page=2 200 in 1149ms
+ GET /?page=2&_mvua=1 200 in 1149ms
+ GET /?page=2 200 in 1152ms
+ GET /?page=2&_mvua=1 200 in 921ms
+ GET /?page=2&_mvua=1 200 in 1054ms
+ GET /?page=2&_mvua=1 200 in 1032ms
+ GET /?page=2&_mvua=1 200 in 993ms
+ ✓ Compiled /favicon.ico in 232ms (706 modules)
+ GET /favicon.ico 200 in 597ms
+ GET /favicon.ico 200 in 15ms
+ GET /favicon.ico 200 in 23ms
+ GET /?page=2&_mvua=1 200 in 1064ms
+ GET /?page=2&_mvua=1 200 in 999ms
+ GET /?page=2&_mvua=1 200 in 932ms
+ GET /?page=2&_mvua=1 200 in 937ms
+ GET /?page=2&_mvua=1 200 in 1492ms
+ ✓ Compiled in 940ms (1161 modules)
+ GET /?page=2 200 in 1082ms
+ GET /?page=2&_mvua=1 200 in 1085ms
+ GET /?page=2 200 in 1087ms
+ GET /?page=2&_mvua=1 200 in 891ms
+ GET /favicon.ico 200 in 30ms
+ GET /?page=2&_mvua=1 200 in 1049ms
+ GET /favicon.ico 200 in 10ms
+ GET /?page=2&_mvua=1 200 in 1055ms
+ GET /?page=2&_mvua=1 200 in 1004ms
+ GET /favicon.ico 200 in 15ms
+ GET /?page=2&_mvua=1 200 in 851ms
+ GET /?page=2&_mvua=1 200 in 863ms
+ GET /?page=2&_mvua=1 200 in 839ms
+ GET /?page=2&_mvua=1 200 in 832ms
+ GET /?page=2&_mvua=1 200 in 848ms
+ ✓ Compiled in 165ms (456 modules)
+ GET /?page=2 200 in 1065ms
+ GET /?page=2 200 in 1064ms
+ GET /?page=2&_mvua=1 200 in 1073ms
+ GET /?page=2&_mvua=1 200 in 964ms
+ GET /?page=2&_mvua=1 200 in 908ms
+ GET /favicon.ico 200 in 65ms
+ GET /favicon.ico 200 in 70ms
+ GET /?page=2&_mvua=1 200 in 1124ms
+ GET /favicon.ico 200 in 19ms
+ GET /?page=2&_mvua=1 200 in 1155ms
+ GET /?page=2&_mvua=1 200 in 909ms
+ GET /?page=2&_mvua=1 200 in 887ms
+ GET /?page=2&_mvua=1 200 in 872ms
+ GET /?page=2&_mvua=1 200 in 882ms
+ GET /?page=2&_mvua=1 200 in 844ms
+ GET /?page=2 200 in 1035ms
+ GET /favicon.ico 200 in 12ms
+ GET / 200 in 991ms
+ GET /?page=2 200 in 1019ms
+ GET /favicon.ico 200 in 9ms
+ GET /?page=2&_mvua=1 200 in 1097ms
+ GET /?page=2&_mvua=1 200 in 1022ms
+ GET /?page=2&_mvua=1 200 in 1294ms
+ GET /?page=2&_mvua=1 200 in 1222ms
+ GET /?page=2&_mvua=1 200 in 982ms
+ GET /?page=2&_mvua=1 200 in 1081ms
+ GET /?page=2&_mvua=1 200 in 1158ms
+ GET /?page=2&_mvua=1 200 in 1072ms
+ ✓ Compiled /_not-found in 272ms (706 modules)
+ GET /sw.js 404 in 630ms
+ GET /?page=2&_mvua=1 200 in 1235ms
+ GET /?page=2&_mvua=1 200 in 1145ms
+ GET /sw.js 404 in 75ms
+ GET /sw.js 404 in 82ms
+ ✓ Compiled in 759ms (1144 modules)
+ GET /?page=2 200 in 1236ms
+ GET /?page=2&_mvua=1 200 in 1232ms
+ GET /?page=2 200 in 1238ms
+ GET /?page=2&_mvua=1 200 in 906ms
+ GET /?page=2&_mvua=1 200 in 860ms
+ ✓ Compiled /favicon.ico in 258ms (705 modules)
+ GET /?page=2&_mvua=1 200 in 1274ms
+ GET /?page=2&_mvua=1 200 in 1233ms
+ GET /favicon.ico 200 in 528ms
+ GET /favicon.ico 200 in 668ms
+ GET /favicon.ico 200 in 18ms
+ GET /favicon.ico 200 in 17ms
+ GET /favicon.ico 200 in 14ms
+ GET /favicon.ico 200 in 13ms
+ GET /?page=2&_mvua=1 200 in 952ms
+ GET /?page=2&_mvua=1 200 in 1024ms
+ GET /?page=2&_mvua=1 200 in 1440ms
+ GET /?page=2&_mvua=1 200 in 888ms
+ GET /?page=2&_mvua=1 200 in 841ms
+ ✓ Compiled in 572ms (1161 modules)
+ GET /?page=2&_mvua=1 200 in 1096ms
+ GET /?page=2 200 in 1099ms
+ GET /?page=2 200 in 1098ms
+ GET /?page=2&_mvua=1 200 in 952ms
+ GET /?page=2&_mvua=1 200 in 903ms
+ GET /?page=2&_mvua=1 200 in 1037ms
+ GET /favicon.ico 200 in 46ms
+ GET /favicon.ico 200 in 58ms
+ GET /favicon.ico 200 in 20ms
+ GET /favicon.ico 200 in 19ms
+ GET /favicon.ico 200 in 11ms
+ GET /?page=2&_mvua=1 200 in 1160ms
+ GET /favicon.ico 200 in 12ms
+ GET /?page=2&_mvua=1 200 in 883ms
+ GET /?page=2&_mvua=1 200 in 863ms
+ GET /?page=2&_mvua=1 200 in 892ms
+ GET /?page=2&_mvua=1 200 in 868ms
+ GET /?page=2&_mvua=1 200 in 842ms
+ ✓ Compiled in 667ms (1161 modules)
+ GET /?page=2&_mvua=1 200 in 1130ms
+ GET /?page=2 200 in 1131ms
+ GET /?page=2 200 in 1132ms
+ GET /?page=2&_mvua=1 200 in 987ms
+ GET /?page=2&_mvua=1 200 in 945ms
+ GET /?page=2&_mvua=1 200 in 902ms
+ GET /?page=2&_mvua=1 200 in 970ms
+ GET /favicon.ico 200 in 39ms
+ GET /favicon.ico 200 in 47ms
+ GET /favicon.ico 200 in 12ms
+ GET /favicon.ico 200 in 8ms
+ GET /favicon.ico 200 in 17ms
+ GET /favicon.ico 200 in 8ms
+ GET /?page=2&_mvua=1 200 in 847ms
+ GET /?page=2&_mvua=1 200 in 895ms
+ GET /?page=2&_mvua=1 200 in 842ms
+ GET /?page=2&_mvua=1 200 in 876ms
+ GET /?page=2&_mvua=1 200 in 859ms
+ GET / 200 in 1066ms
+ GET /?age=14 200 in 958ms
+ GET /?page=2 200 in 971ms
+ GET /favicon.ico 200 in 9ms
+ GET /?page=2 200 in 961ms
+ GET /favicon.ico 200 in 12ms
+ GET /?page=2&_mvua=1 200 in 1320ms
+ GET /?page=2&_mvua=1 200 in 1247ms
+ GET /?page=2&_mvua=1 200 in 1236ms
+ GET /?page=2&_mvua=1 200 in 1161ms
+ GET /?page=2&_mvua=1 200 in 1150ms
+ GET /?page=2&_mvua=1 200 in 1039ms
+ GET /?page=2&_mvua=1 200 in 1217ms
+ GET /?page=2&_mvua=1 200 in 1338ms
+ GET /?page=2&_mvua=1 200 in 1131ms
+ GET /?page=2&_mvua=1 200 in 1027ms
+ ✓ Compiled /_not-found in 372ms (706 modules)
+ GET /sw.js 404 in 581ms
+ GET /?page=2&_mvua=1 200 in 1251ms
+ GET /?page=2 200 in 1252ms
+ GET /?page=2&_mvua=1 200 in 965ms
+ GET /?page=2 200 in 1255ms
+ GET /?page=2&_mvua=1 200 in 928ms
+ GET /?page=2&_mvua=1 200 in 961ms
+ GET /favicon.ico 200 in 35ms
+ GET /?page=2&_mvua=1 200 in 1149ms
+ GET /favicon.ico 200 in 57ms
+ GET /favicon.ico 200 in 30ms
+ GET /favicon.ico 200 in 11ms
+ GET /favicon.ico 200 in 8ms
+ GET /favicon.ico 200 in 7ms
+ GET /?page=2&_mvua=1 200 in 853ms
+ GET /?page=2&_mvua=1 200 in 871ms
+ GET /?page=2&_mvua=1 200 in 863ms
+ GET /?page=2&_mvua=1 200 in 904ms
+ GET /?page=2&_mvua=1 200 in 885ms
+ GET /sw.js 404 in 83ms
